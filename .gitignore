@@ -1,0 +1,16 @@
+# Videos (anywhere)
+*.mp4
+*.webm
+*.mov
+*.mkv
+
+# Frames & derived images
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Output folders
+frames_out/
+assets/
+tmp/
