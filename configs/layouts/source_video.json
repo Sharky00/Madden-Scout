@@ -1,0 +1,17 @@
+{
+  "layout_name": "source_video",
+  "regions": {
+    "scoreboard": {
+      "x": 0.0,
+      "y": 0.9,
+      "w": 1.0,
+      "h": 0.1
+    },
+    "play_call_banner": {
+      "x": 0.715,
+      "y": 0.05,
+      "w": 0.255,
+      "h": 0.22
+    }
+  }
+}

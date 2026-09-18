@@ -1,0 +1,15 @@
+{
+  "channels": ["Sharky00__"],
+  "poll_seconds": 60,
+  "output_dir": "output",
+  "layout_config": "configs/layouts/source_video.json",
+  "calibration_file": "configs/calibration/source_video_first_14.json",
+  "sample_every_n_frames": 30,
+  "ocr_workers": 4,
+  "no_refine_calls": false,
+  "show_analysis_window": false,
+  "embed_analysis_preview": true,
+  "discord_channel_id": 746090210994946149,
+  "discord_author_name": "Karen",
+  "cookies_from_browser": null
+}

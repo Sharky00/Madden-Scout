@@ -1,0 +1,4 @@
+opencv-python>=4.10.0
+yt-dlp>=2026.1.0
+pytesseract>=0.3.10
+discord.py>=2.6.0
